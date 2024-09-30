@@ -8,7 +8,7 @@ Enquanto estudava o mercado de Design Gráfico, tornou-se evidente para mim que 
 🤟🏽 Tenho facilidade e interesse nas áreas de UI/UX Design.<br>
 🧠 Tenho conhecimento em Identidade Visual e Social Media.
 ***
-Hello! My name is Gustavo Maia, I'm from Natal-RN. I'm currently pursuing a degree in Technology in Systems Analysis and Development at IFRN - Natal Central. I have knowledge in Graphic Design and two years of experience in the digital market as a Freelancer. 
+Hello! My name is __Gustavo Maia__, I'm from Natal-RN. I'm currently pursuing a degree in Technology in Systems Analysis and Development at IFRN - Natal Central. I have knowledge in Graphic Design and two years of experience in the digital market as a Freelancer. 
 
 While studying the Graphic Design market, it became clear to me that the technology area was crucial anywhere in the job market, so I realized that specializing in Software Development could add a lot of value to me as a professional. 
 
