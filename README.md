@@ -5,7 +5,7 @@ Olá! O meu nome é __Gustavo Maia__, sou de Natal-RN. Atualmente estou graduand
 Enquanto estudava o mercado de Design Gráfico, tornou-se evidente para mim que a área da tecnologia era crucial em qualquer lugar no mercado de trabalho, logo percebi que pme especializar no Desenvolvimento de Software poderia agregar muito valor para mim como profissional.
 
 🚀 Tenho experiência com HTML, CSS, e Python.<br> 
-🤟🏽 Tenho facilidade e interesse nas áreas de UI/UX Design.<br>
+🤟🏽 Tenho interesse nas áreas de UI/UX Design.<br>
 🧠 Tenho conhecimento em Identidade Visual e Social Media.
 ***
 Hello! My name is __Gustavo Maia__, I'm from Natal-RN. I'm currently pursuing a degree in Technology in Systems Analysis and Development at IFRN - Natal Central. I have knowledge in Graphic Design and two years of experience in the digital market as a Freelancer. 
@@ -13,7 +13,7 @@ Hello! My name is __Gustavo Maia__, I'm from Natal-RN. I'm currently pursuing a 
 While studying the Graphic Design market, it became clear to me that the technology area was crucial anywhere in the job market, so I realized that specializing in Software Development could add a lot of value to me as a professional. 
 
 🚀 I have experience with HTML, CSS, and Python.<br> 
-🤟🏽 I have ease and interest in the areas of UI/UX Design.<br> 
+🤟🏽 I have interest in the areas of UI/UX Design.<br> 
 🧠 I have knowledge in Visual Identity and Social Media.
 
 <div align="center" style="display: inline_block"> 
