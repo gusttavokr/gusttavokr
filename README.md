@@ -18,6 +18,7 @@ While studying the Graphic Design market, it became clear to me that the technol
 
 <div align="center" style="display: inline_block"> 
   <a href="https://github.com/gusttavokr"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavokr&layout=compact&langs_count=7&theme=midnight-purple"/> 
+  <a href="https://github.com/gusttavokr"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttavokr&hide=contribs,prs&theme=midnight-purple"/> 
 </div>
  
 <div align="center" style="display: inline_block"><br>
