@@ -16,9 +16,15 @@ While studying the Graphic Design market, it became clear to me that the technol
 🤟🏽 I have interest in the areas of UI/UX Design.<br> 
 🧠 I have knowledge in Visual Identity and Social Media.
 
-<div align="center"> <a href="https://github.com/gusttavokr"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavokr&layout=compact&langs_count=7&theme=midnight-purple"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttavokr&show_icons=true&theme=midnight-purple"/> 
+<!--<div align="center"> <a href="https://github.com/gusttavokr"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavokr&layout=compact&langs_count=7&theme=midnight-purple"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttavokr&show_icons=true&theme=midnight-purple"/> 
+</div> -->
+
+<div align="center" style="display: inline_block"><br>
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavokr&layout=compact&theme=dark)](https://github.com/gusttavokr/github-readme-stats)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gusttavokr&theme=dark)
 </div>
- 
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,7 +32,11 @@ While studying the Graphic Design market, it became clear to me that the technol
 </div>
 <br>
 
-<div align="center" height="10em">
+
+
+
+
+<!--<div align="center" height="10em">
  
 ![adad ad](https://ssr-contributions-svg.vercel.app/_/gusttavokr?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green)
 </div>
