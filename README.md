@@ -26,6 +26,12 @@ While studying the Graphic Design market, it became clear to me that the technol
 </div>
 <br>
 
+<div align="center" height="10em">
+ 
+![adad ad](https://ssr-contributions-svg.vercel.app/_/gusttavokr?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green)
+</div>
+
+
 <p align="center">Acesse agora o meu Linkedin:</p>
 <div align="center" style="display: inline_block">
   <a href="www.linkedin.com/in/gustavomaiaa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
