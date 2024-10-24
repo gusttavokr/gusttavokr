@@ -21,8 +21,8 @@ While studying the Graphic Design market, it became clear to me that the technol
 
 <div align="center" style="display: inline_block"><br>
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavokr&layout=compact&theme=dark)](https://github.com/gusttavokr/github-readme-stats)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gusttavokr&theme=dark)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marioluizguimaraes&theme=dark)
 </div>
 
 <div align="center" style="display: inline_block"><br>
