@@ -2,7 +2,7 @@
 
 Olá! O meu nome é __Gustavo Maia__, sou de Natal-RN. Atualmente estou graduando em Tecnologia em Análise e Desenvolvimento de Sistemas no IFRN - Natal Central. Tenho conhecimento em Design Gráfico e experiência de dois anos no mercado digital como Freelancer.
 
-Enquanto estudava o mercado de Design Gráfico, tornou-se evidente para mim que a área da tecnologia era crucial em qualquer lugar no mercado de trabalho, logo percebi que me especializar no Desenvolvimento de Software poderia agregar muito valor para mim como profissional.
+Enquanto estudava o mercado de Design Gráfico, tornou-se evidente para mim que a área da tecnologia era crucial em qualquer lugar no mercado de trabalho, portanto, me especializar no Desenvolvimento de Software poderia agregar muito valor para mim como profissional.
 
 🚀 Tenho experiência com HTML, CSS, e Python.<br> 
 🤟🏽 Tenho interesse nas áreas de UI/UX Design.<br>
