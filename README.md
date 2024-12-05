@@ -22,8 +22,9 @@ While studying the Graphic Design market, it became clear to me that the technol
 <div align="center" style="display: inline_block"><br>
   
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gusttavokr&theme=dark)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gusttavokr&theme=dark)
-</div>
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gusttavokr&theme=github_dark)
+ <!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gusttavokr&theme=dark)
+</div>-->
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
