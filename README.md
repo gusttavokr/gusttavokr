@@ -19,6 +19,9 @@ While studying the Graphic Design market, it became clear to me that the technol
 <!--<div align="center"> <a href="https://github.com/gusttavokr"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavokr&layout=compact&langs_count=7&theme=midnight-purple"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttavokr&show_icons=true&theme=midnight-purple"/> 
 </div> -->
 
+![shenlong-shenron](https://github.com/user-attachments/assets/a67f670d-30cc-4f39-a9f9-5da04858961c)
+
+
 <div align="center" style="display: inline_block"><br>
 
 <div align="center" style="display: inline_block"><br>
