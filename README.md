@@ -18,7 +18,7 @@ While studying the Graphic Design market, it became clear to me that the technol
   
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Shenlong" src="https://github.com/user-attachments/assets/a67f670d-30cc-4f39-a9f9-5da04858961c">
+  <img align="center" alt="Shenlong" width="500" src="https://github.com/user-attachments/assets/a67f670d-30cc-4f39-a9f9-5da04858961c">
 </div>
 
 <div align="center" style="display: inline_block"><br>
