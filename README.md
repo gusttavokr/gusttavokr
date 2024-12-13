@@ -15,14 +15,11 @@ While studying the Graphic Design market, it became clear to me that the technol
 🚀 I have experience with HTML, CSS, and Python.<br> 
 🤟🏽 I have interest in the areas of UI/UX Design.<br> 
 🧠 I have knowledge in Visual Identity and Social Media.
-
-<!--<div align="center"> <a href="https://github.com/gusttavokr"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavokr&layout=compact&langs_count=7&theme=midnight-purple"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttavokr&show_icons=true&theme=midnight-purple"/> 
-</div> -->
-
-![shenlong-shenron](https://github.com/user-attachments/assets/a67f670d-30cc-4f39-a9f9-5da04858961c)
-
-
+  
+</div>
 <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Shenlong" src="https://github.com/user-attachments/assets/a67f670d-30cc-4f39-a9f9-5da04858961c">
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
