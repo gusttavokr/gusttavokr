@@ -14,7 +14,7 @@ While studying the Graphic Design market, it became clear to me that the technol
 
 🚀 I have experience with HTML, CSS, and Python.<br> 
 🤟🏽 I have interest in the areas of UI/UX Design.<br> 
-🧠 I have knowledge in Visual Identity and Social Media.
+🧠 I have knowledge in Branding and Social Media.
   
 </div>
 <div align="center" style="display: inline_block"><br>
