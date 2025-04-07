@@ -1,3 +1,4 @@
+# Welcome to my profile in GitHub! 🐉
 Hello! My name is __Gustavo Maia__, I'm from Natal-RN. I'm currently pursuing a degree in Technology in Systems Analysis and Development at IFRN - Natal Central. I have knowledge in Graphic Design and two years of experience in the digital market as a Freelancer. 
 
 While studying the Graphic Design market, it became clear to me that the technology area was crucial anywhere in the job market, so I realized that specializing in Software Development could add a lot of value to me as a professional. 
@@ -5,7 +6,6 @@ While studying the Graphic Design market, it became clear to me that the technol
 🚀 I have experience with HTML, CSS, and Python.<br> 
 🤟🏽 I have interest in the areas of UI/UX Design.<br> 
 🧠 I have knowledge in Branding and Social Media.
-
 ***
 </div>
 <div align="center" style="display: inline_block"><br>
