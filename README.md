@@ -23,7 +23,7 @@ While studying the Graphic Design market, it became clear to me that the technol
 
 <p align="center">Acesse agora o meu Linkedin:</p>
 <div align="center" style="display: inline_block">
-  <a href="https://www.linkedin.com/in/gustavomaiaa" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavomaiaa" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
