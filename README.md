@@ -20,6 +20,7 @@ While studying the Graphic Design market, it became clear to me that the technol
   <img align="center" alt="Rafa-Django" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Rafa-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Rafa-Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 <br>
 
@@ -30,28 +31,3 @@ While studying the Graphic Design market, it became clear to me that the technol
   </a> 
 </div>
 
-
-
-<!--<div align="center" height="10em">
- 
-![adad ad](https://ssr-contributions-svg.vercel.app/_/gusttavokr?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green)
-</div>
-
-
-
- 
-
-<!--
-**gusttavokr/gusttavokr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
