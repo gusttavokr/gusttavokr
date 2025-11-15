@@ -3,8 +3,8 @@ Hello! My name is __Gustavo Maia__, I'm from Natal-RN. I'm currently pursuing a 
 
 While studying the Graphic Design market, it became clear to me that the technology area was crucial anywhere in the job market, so I realized that specializing in Software Development could add a lot of value to me as a professional. 
 
-🚀 I have experience with HTML, CSS, and Python.<br> 
-🤟🏽 I have interest in the areas of UI/UX Design.<br> 
+🚀 I have experience with UI/UX Design.<br> 
+🤟🏽 I have interest in the areas of Fullstack and Game Development.<br> 
 🧠 I have knowledge in Branding and Social Media.
 ***
 </div>
