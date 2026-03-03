@@ -41,7 +41,7 @@ Hoje, traduzo essa bagagem em código, construindo aplicações completas, desde
 
 ---
 
-<h2>📬 Vamos nos conectar!</h2>
+<h2>📬 Contato</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavomaiaa" target="_blank"  rel="noopener noreferrer">
