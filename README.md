@@ -4,9 +4,9 @@
 </div>
 <h2>👨‍💻 Sobre mim</h2>
 
-Sou um desenvolvedor fullstack com domínio em UI/UX Design, combinando lógica de programação com uma visão estética apurada. Minha trajetória criativa começou em 2020, atuando com Identidade Visual e Social Media, o que me proporcionou uma base sólida para entender o comportamento do usuário. 
+<p>Sou um <b>desenvolvedor fullstack</b> com forte domínio em <b>UI/UX Design</b>, combinando <u>lógica de programação</u> com uma <i>visão estética apurada</i>. Minha trajetória criativa começou em 2020, atuando com <b>Identidade Visual e Social Media</b>, o que me proporcionou uma base sólida para entender o <i>comportamento do usuário</i>.</p>
 
-Hoje, traduzo essa bagagem em código, construindo aplicações completas, desde back-ends robustos até front-ends intuitivos e visualmente cativantes. Meu foco é entregar soluções digitais onde o design elegante e a alta performance caminham lado a lado.
+<p>Hoje, traduzo essa bagagem em código, construindo <b>aplicações completas</b> — desde <i>back-ends</i> robustos até <i>front-ends</i> intuitivos e visualmente cativantes. Meu foco é entregar <u>soluções digitais</u> onde o <b>design elegante</b> e a <b>alta performance</b> caminhem lado a lado.</p>
 
 ---
 
