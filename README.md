@@ -1,33 +1,64 @@
-# Welcome to my profile in GitHub! 🐉
-Hello! My name is __Gustavo Maia__, I'm from Natal-RN. I'm currently pursuing a degree in Technology in Analysis and Systems Development at IFRN - Natal Central. I have knowledge in Graphic Design and five years of experience in the digital market as a Freelancer. 
+<div align="center">
 
-While studying the Graphic Design market, it became clear to me that the technology area was crucial anywhere in the job market, so I realized that specializing in Software Development could add a lot of value to me as a professional. 
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/512.gif" alt="Dragão" width="100" />
 
-🚀 I have experience with UI/UX Design.<br> 
-🤟🏽 I have interest in the areas of Fullstack and Game Development.<br> 
-🧠 I have knowledge in Branding and Social Media.
-***
-</div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Shenlong" width="500" src="https://github.com/user-attachments/assets/a67f670d-30cc-4f39-a9f9-5da04858961c">
+  <h1>Fullstack Developer 💻 | UI/UX Designer 🎨</h1>
+
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Figma" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Angular" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Tailwind" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Django" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Postgresql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
 <br>
 
-<p align="center">Acesse agora o meu Linkedin:</p>
-<div align="center" style="display: inline_block">
+<h2>👨‍💻 Sobre mim</h2>
+
+Sou um desenvolvedor fullstack com domínio em UI/UX Design, combinando lógica de programação com uma visão estética apurada. Minha trajetória criativa começou em 2020, atuando com Identidade Visual e Social Media, o que me proporcionou uma base sólida para entender o comportamento do usuário. 
+
+Hoje, traduzo essa bagagem em código, construindo aplicações completas, desde back-ends robustos até front-ends intuitivos e visualmente cativantes. Meu foco é entregar soluções digitais onde o design elegante e a alta performance caminham lado a lado.
+
+---
+
+<h2>🛠️ Minha Caixa de Ferramentas</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🎨 <b>Front-end & UI/UX</b></td>
+      <td align="center">⚙️ <b>Back-end</b></td>
+      <td align="center">🗄️ <b>Infraestrutura</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=figma,angular,tailwind&theme=dark" height="60" alt="Front-end Skills" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=java,spring,python,django&theme=dark" height="60" alt="Back-end Skills" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark" height="60" alt="Infra Skills" /></td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+<h2>📊 Minhas Estatísticas</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gusttavokr&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2BD47D&fire=2BD47D&currStreakLabel=2BD47D&sideNums=2BD47D" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gusttavokr&theme=github-compact&hide_border=true&bg_color=0d1117&color=19B3CC&line=2BD47D&point=ffffff&text_color" width="95%"/>
+</div>
+
+---
+
+<h2>📬 Vamos nos conectar!</h2>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/gustavomaiaa" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
+  <a href="mailto:gustavommilitaoo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://behance.net/gusttavokr" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+  </a>
+
 </div>
 
