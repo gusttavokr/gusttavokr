@@ -1,13 +1,7 @@
 <div align="center">
-
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/512.gif" alt="Dragão" width="100" />
-
   <h1>Fullstack Developer 💻 | UI/UX Designer 🎨</h1>
-
 </div>
-
-<br>
-
 <h2>👨‍💻 Sobre mim</h2>
 
 Sou um desenvolvedor fullstack com domínio em UI/UX Design, combinando lógica de programação com uma visão estética apurada. Minha trajetória criativa começou em 2020, atuando com Identidade Visual e Social Media, o que me proporcionou uma base sólida para entender o comportamento do usuário. 
