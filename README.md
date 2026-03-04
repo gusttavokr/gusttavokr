@@ -2,7 +2,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/512.gif" alt="Dragão" width="100" />
   <h1>Fullstack Developer 💻 | UI/UX Designer 🎨</h1>
 </div>
-<h2>👨‍💻 Sobre mim</h2>
+<h2>👨‍💻 Sobre Mim</h2>
 
 <p>Sou um <b>desenvolvedor fullstack</b> com domínio em <b>UI/UX Design</b>, combinando <u>lógica de programação</u> com uma <i>visão estética apurada</i>. Minha trajetória criativa começou em 2020, atuando com <b>Identidade Visual e Social Media</b>, o que me proporcionou uma base sólida para entender o <i>comportamento do usuário</i>.</p>
 
@@ -10,7 +10,7 @@
 
 ---
 
-<h2>🛠️ Minha Caixa de Ferramentas</h2>
+<h2>🛠️ Minhas Tecnologias</h2>
 
 <div align="center">
   <table>
