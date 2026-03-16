@@ -2,6 +2,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/512.gif" alt="Dragão" width="100" />
   <h1>Fullstack Developer 💻 | UI/UX Designer 🎨</h1>
 </div>
+
 <h2>👨‍💻 Sobre Mim</h2>
 
 <p>Sou um <b>desenvolvedor fullstack</b> com domínio em <b>UI/UX Design</b>, combinando <u>lógica de programação</u> com uma <i>visão estética apurada</i>. Minha trajetória criativa começou em 2020, atuando com <b>Identidade Visual e Social Media</b>, o que me proporcionou uma base sólida para entender a <i>experiência do usuário</i>.</p>
@@ -22,10 +23,9 @@
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=figma,angular,tailwind&theme=dark" height="60" alt="Front-end Skills" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=java,spring,python,django&theme=dark" height="60" alt="Back-end Skills" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark" height="60" alt="Infra Skills" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=linux,postgres,docker&theme=dark" height="60" alt="Infra Skills" /></td>
     </tr>
   </table>
-
 </div>
 
 ---
@@ -53,6 +53,4 @@
   <a href="https://www.linkedin.com/in/gustavomaiaa" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-
 </div>
-
