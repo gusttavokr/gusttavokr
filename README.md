@@ -21,9 +21,9 @@
       <td align="center">🗄️ <b>Infraestrutura</b></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=figma,angular,tailwind&theme=dark" height="60" alt="Front-end Skills" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=java,spring,python,django&theme=dark" height="60" alt="Back-end Skills" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=linux,postgres,docker&theme=dark" height="60" alt="Infra Skills" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=angular,figma,flutter,tailwind&theme=dark" height="60" alt="Front-end Skills" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=django,python,java,spring&theme=dark" height="60" alt="Back-end Skills" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker,linux,postgres&theme=dark" height="60" alt="Infra Skills" /></td>
     </tr>
   </table>
 </div>
