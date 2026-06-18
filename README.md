@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=angular,figma,flutter,tailwind&theme=dark" height="60" alt="Front-end Skills" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=django,python,java,spring&theme=dark" height="60" alt="Back-end Skills" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=django,python,java,spring,postman&theme=dark" height="60" alt="Back-end Skills" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=docker,linux,postgres&theme=dark" height="60" alt="Infra Skills" /></td>
     </tr>
   </table>
